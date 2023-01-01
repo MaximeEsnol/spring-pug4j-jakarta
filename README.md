@@ -88,6 +88,7 @@ Just add following dependency definitions to your `pom.xml`.
 - Stefan Kuper / [planetk](https://github.com/planetk)
 - Michael Geers / [naltatis](https://github.com/naltatis)
 - Christoph Blömer / [chbloemer](https://github.com/chbloemer)
+- Maxime Esnol / [MaximeEsnol](https://github.com/MaximeEsnol)
 
 ## License
 
