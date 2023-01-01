@@ -7,8 +7,8 @@ import java.io.Writer;
 import java.util.Locale;
 import java.util.Map;
 
-import javax.servlet.http.HttpServletRequest;
-import javax.servlet.http.HttpServletResponse;
+import jakarta.servlet.http.HttpServletRequest;
+import jakarta.servlet.http.HttpServletResponse;
 
 import de.neuland.pug4j.PugConfiguration;
 import de.neuland.pug4j.exceptions.PugCompilerException;
